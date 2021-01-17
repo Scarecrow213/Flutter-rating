@@ -1,0 +1,4 @@
+org/codeforiraq/flutter_crud1/BuildConfig.java
+ org.codeforiraq.flutter_crud1.BuildConfig
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
