@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64aa9294-48d6-4539-bfc0-b45980dccb15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/xml/network_security_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/view/showstat.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/view/statistcs.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/org/codeforiraq/flutterapitut/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Controllers/databasehelper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Controllers/databasehelper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/adddata.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/adddata.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/dashboard.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/dashboard.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/editdata.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/editdata.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/register.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/register.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/showdata.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/showdata.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_2_API_28]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n6nEBGLwMMolHJxrzbkMlwmMDM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="Pixel_2_API_28 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="org.codeforiraq.flutter_crud1" />
+    <property name="DEBUGGER_ID" value="Java" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/view" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\flutter_crud1\lib\view" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64aa9294-48d6-4539-bfc0-b45980dccb15" name="Default Changelist" comment="" />
+      <created>1610719296254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610719296254</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="802" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610726757198">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="802" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1610726757198" />
+    <state x="718" y="252" key="AndroidProcessChooserDialog" timestamp="1610737138312">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="718" y="252" key="AndroidProcessChooserDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1610737138312" />
+    <state width="556" height="582" key="DebuggerActiveHint" timestamp="1610883806673">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="556" height="582" key="DebuggerActiveHint/0.0.2560.1040@0.0.2560.1040" timestamp="1610883806673" />
+    <state width="1745" height="289" key="GridCell.Tab.0.bottom" timestamp="1610893673405">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1745" height="289" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1610893673405" />
+    <state width="1745" height="289" key="GridCell.Tab.0.center" timestamp="1610893673405">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1745" height="289" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1610893673405" />
+    <state width="1745" height="289" key="GridCell.Tab.0.left" timestamp="1610893673405">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1745" height="289" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1610893673405" />
+    <state width="1745" height="289" key="GridCell.Tab.0.right" timestamp="1610893673405">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1745" height="289" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1610893673405" />
+    <state width="1745" height="289" key="GridCell.Tab.1.bottom" timestamp="1610893673338">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1745" height="289" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1610893673338" />
+    <state width="1745" height="289" key="GridCell.Tab.1.center" timestamp="1610893673337">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1745" height="289" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1610893673337" />
+    <state width="1745" height="289" key="GridCell.Tab.1.left" timestamp="1610893673337">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1745" height="289" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1610893673337" />
+    <state width="1745" height="289" key="GridCell.Tab.1.right" timestamp="1610893673337">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1745" height="289" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1610893673337" />
+    <state x="440" y="82" key="SettingsEditor" timestamp="1610828561863">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="440" y="82" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1610828561863" />
+    <state x="375" y="140" width="1132" height="664" key="find.popup" timestamp="1610897918095">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="375" y="140" width="1132" height="664" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1610897918095" />
+    <state x="391" y="387" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1610839312896">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="391" y="387" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1610839312896" />
+    <state width="841" height="625" key="javadoc.popup.new" timestamp="1610882268785">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="841" height="625" key="javadoc.popup.new/0.0.2560.1040@0.0.2560.1040" timestamp="1610882268785" />
+  </component>
+</project>
